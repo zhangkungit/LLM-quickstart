@@ -162,7 +162,7 @@ cython_debug/
 # Customization
 
 nohup.out
-# */models/
+*/models/
 peft/temp/
 deepspeed/output_dir
 RLHF
